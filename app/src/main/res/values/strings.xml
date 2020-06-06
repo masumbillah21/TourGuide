@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="category_places">Places</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_hotel">Hotels</string>
+    <string name="tour_place_image">Tour Place Image</string>
+
+    <string name="title">Title</string>
+    <string name="open_hour">Open Hour</string>
+    <string name="address">Address</string>
+    <string name="rating">Rating</string>
+    <string name="description">Description</string>
+    <string name="title_activity_tour_guide_details">TourGuideDetailsActivity</string>
+    <string name="app_sub_title">Enjoy your trip</string>
+    <string name="app_logo">App Logo</string>
+
+<!--    String for places -->
+    <string name="rate_5_out_5">5 out of 5</string>
+    <string name="rate_4_9_out_of_5">4.9 out of 5</string>
+    <string name="rate_4_8_out_of_5">4.8 out of 5</string>
+    <string name="rate_4_7_out_of_5">4.7 out of 5</string>
+
+    <string name="open_hour_24_hours">Sun - Sat: 24 hours</string>
+    <string name="open_hour_sun_sat_10am_10pm">Sun - Sat: 10 AM - 10 PM</string>
+
+    <string name="restaurant_desc">Vegan Options, Halal, Gluten Free Options, Vegetarian Friendly</string>
+
+    <string name="somapura_mahavira">Somapura Mahavira</string>
+    <string name="somapura_mahavira_address">Naogaon Subdivision of Rajshahi District, Bangladesh</string>
+    <string name="somapura_mahavira_open_hour">Sun - Sat: 8am - 6pm</string>
+    <string name="somapura_mahavira_desc">Somapura Mahavira is a famous Buddhist vihara, or monastery, and is an important archaeological site in Bangladesh. It dates back to the 8th century AD and has an influence on Buddhist architecture throughout Asia. Many artefacts have been recovered during excavations, including sculpture and pottery. These finds have been stored in a museum near the site. The vihara is located in the northwest of the country and has been designated a UNESCO World Heritage Site since 1985. Today, you can visit the site and explore the ruins — you are free to roam around at your own pace.</string>
+
+    <string name="kotila_mura">Kotila Mura</string>
+    <string name="kotila_mura_address">Comilla Adarsho Sadar Upazila, Comilla District, Bangladesh</string>
+    <string name="kotila_mura_desc">Rupban Mura is a Buddhist temple complex of a 8th century. It is 200 meter apart from the Comilla BARD and south part of Kali Bazar market near Kotbari. It is a significant archaeological sight in Bangladesh. This Bihar was built by the king Balbhatta. The first excavations of this site started at the time of the Second World War.</string>
+
+    <string name="dhaka_lalbagh_fort">Dhaka Lalbagh Fort</string>
+    <string name="dhaka_lalbagh_fort_address">Lalbagh Rd, Dhaka 1211, Bangladesh</string>
+    <string name="dhaka_lalbagh_fort_open_hour">Mon - Sat: 9am - 5pm (closed on Sun)</string>
+    <string name="dhaka_lalbagh_fort_desc">Lalbagh Fort is located in Dhaka and dates back to the 17th century. It’s an excellent piece of architecture of the Mughal Empire, but there’s one catch: it’s not complete. Construction began for a Mughal prince and later emperor. He was called away, and the Governor of Dhaka then took over. Unfortunately, the Governor’s daughter passed away, and the fort became an example of a bad omen, so it was left incomplete. Today, locals and tourists alike visit the fort. You can explore the mosque and the Governor’s residence.</string>
+
+    <string name="shalban_bihar_temple_ruins">Shalban Bihar Temple ruins</string>
+    <string name="shalban_bihar_temple_ruins_address">Courtbari, Comilla 3503, Bangladesh</string>
+    <string name="shalban_bihar_temple_ruins_open_hour">Sun - Sat: 9am - 5pm</string>
+    <string name="shalban_bihar_temple_ruins_desc">Here we have another historic site sitting in the hills of Comilla, Bangladesh. Shalban Bihar was once a Buddhist monastery, with more than 100 cells for monks, and was in use from the 7th to the 12th centuries. Excavations have been taking place, revealing that the site has been rebuilt four times during its use. Today, visitors can explore the ruins, taking in the historic structure as well as the lush green landscape that surrounds it.</string>
+
+    <string name="liberation_war_museum">Liberation War Museum</string>
+    <string name="liberation_war_museum_address">Plot F11 A/B, Agargaon, Civic Sector, Dhaka 1207, Bangladesh</string>
+    <string name="liberation_war_museum_open_hour">Mon - Sat: 10am - 5pm (closed on Sun)</string>
+    <string name="liberation_war_museum_desc">The Liberation War Museum is located in central Dhaka and is focused on sharing information about the Bangladesh Liberation War, which saw Bangladesh gain independence from Pakistan in 1971. The museum opened in 1996 and has amassed a collection of over 21,000 artefacts relating to the war, including weapons, personal belongings, photographs, and videos. Throughout the museum’s four galleries, they tell the story of Bangladesh’s struggle for independence and identity. It’s a great place to brush up on your history of the country.</string>
+
+    <string name="rabindranath_tagor_kurhibari">Rabindranath Tagore\'s Shilaidaha Kuthibari</string>
+    <string name="rabindranath_tagor_kurhibari_address">Shilaidoha, Kumarkhali 7010, Bangladesh</string>
+    <string name="rabindranath_tagor_kurhibari_open_hour">Mon: 1:30pm - 5pm; Tue - Sat: 9am - 5pm (closed on Sun)</string>
+    <string name="rabindranath_tagor_kurhibari_desc">If you’re a lover of poetry and music, it’s worth stopping by Rabindranath Tagore’s Shilaidaha Kuthibari. Tagore is a treasured writer who won the Nobel Prize in Literature — the first non-European to do so. Tagore stayed at Shilaidaha Kuthibari, a country house, writing during his stay here. Today, this three-storey building is a national monument and popular tourist attraction in Bangladesh. The home now serves as a museum where visitors can view Tagore’s belongings. It sits on beautiful grounds, with lush green grass and a pond.</string>
+
+    <string name="mahasthangarh">Mahasthangarh</string>
+    <string name="mahasthangarh_address">Mahasthan, Bogra District, Bangladesh</string>
+    <string name="mahasthangarh_desc">Mahasthangarh is one of Bangladesh’s earliest urban archaeological sites. This site contains the ruins of an ancient city, dating back to at least the 3rd century BC. It was discovered all the way back in the 1800s, with excavations starting in the late 1920s. Researchers have found coins, ceramics, and importantly a limestone slab with inscriptions which helped date the site. Today these finds are housed in the site museum, which is open Thursday to Sunday. The rest of the site is open all day, and visitors are welcome to explore on their own.</string>
+
+    <string name="hotel_boishakhi">Hotel Boishakhi (Residential)</string>
+    <string name="hotel_boishakhi_address">Bhai Bhai Market, Sadar Rd, Joypurhat</string>
+    <string name="hotel_boishakhi_desc">Joypurhat city best Hotel Boishakhi (Residential). VIP AC room Non ac room adn single room in this hotel in cheap rate with food facility.</string>
+
+    <string name="hotel_green_palace">Hotel Green Palace Residential</string>
+    <string name="hotel_green_palace_address">Chawkbazar Modina Bus Stansted, Comilla Bypass Rd, Cumilla 3500</string>
+    <string name="hotel_green_palace_desc">Comilla city best Hotel Green Palace Residential. VIP AC room Non ac room adn single room in this hotel in cheap rate with food facility.</string>
+
+    <string name="hotel_shalimar">Hotel Shalimar Int\'l (Residential)</string>
+    <string name="hotel_shalimar_address">2/A North Kamolapur, Beside Brtc, Dhaka, 1217</string>
+    <string name="hotel_shalimar_desc">Dhaka city\'s one of the best Hotel Shalimar Int\'l (Residential). VIP AC room Non ac room adn single room in this hotel in cheap rate with food facility.</string>
+
+    <string name="three_star_hotel">Three-star hotel</string>
+    <string name="three_star_hotel_address">Saiba Trade Center, (7th Floor), Comilla</string>
+    <string name="three_star_hotel_desc">Comilla city\'s one of the best Three-star hotel. VIP AC room Non ac room adn single room in this hotel in cheap rate with food facility.</string>
+
+    <string name="inter_continental">Inter Continental</string>
+    <string name="inter_continental_address">1 Minto Road GPO Box 504, Dhaka City 1000 Bangladesh</string>
+    <string name="inter_continental_desc"><![CDATA[InterContinental Dhaka most prestigious 5-star luxury business & convention hotel. Located in the heart of the city InterContinental Dhaka is easily accessible from all key city landmarks. Built in a contemporary design with an opulent façade, the hotel offers 226 stylish guest room, including 201 premium or deluxe rooms, 10 deluxe suites, 5 superior suites, 5 diplomatic suites and 5 presidential suites.]]></string>
+
+    <string name="azmiry_residentail_hotel">Azmiry Residential Hotel</string>
+    <string name="azmiry_residentail_hotel_address">107/1, R.C.R.C Street, Courtpara, Kushtia 7000</string>
+    <string name="azmiry_residentail_hotel_desc">Kushtia city\'s one of the best Azmiry Residential Hotel. VIP AC room Non ac room adn single room in this hotel in cheap rate with food facility.</string>
+
+    <string name="mohasthangarh_guest_house">Mohasthangarh Guest House</string>
+    <string name="mohasthangarh_guest_house_address">Mohasthan - Shibgonj Rd</string>
+    <string name="mohasthangarh_guest_house_desc">Shibgonj city best Mohasthangarh Guest House. VIP AC room Non ac room adn single room in this hotel in cheap rate with food facility.</string>
+
+    <string name="ruchita_restaurant">Ruchita Restaurant</string>
+    <string name="ruchita_restaurant_address">Masjid Complex, Krishi Ponner Paikari Market, Ring Road, Mohammadpur, Dhaka 1207</string>
+    <string name="ruchita_restaurant_open_hour">Sun - Sat: 6 AM to 8 PM</string>
+
+    <string name="cafe_roopsagor">Cafe Roopsagor</string>
+    <string name="cafe_roopsagor_address">Comilla Cantonment, Nazirabazar, Cmh Rd, Cumilla 3501</string>
+
+    <string name="royal_castle_restaurant">Royal Castle Restaurant</string>
+    <string name="royal_castle_restaurant_address">50 Lalbagh Rd, Dhaka 1211</string>
+    <string name="royal_castle_restaurant_open_hour">Sun - Sat: 11 AM to 11.30 PM</string>
+
+    <string name="mosdalifa_fast_food_corner">Mosdalifa Fast Food Corner</string>
+    <string name="mosdalifa_fast_food_corner_address">Shalmanpur</string>
+    <string name="mosdalifa_fast_food_corner_open_hour">Sun - Sat: 8 AM to 12.30 PM</string>
+
+    <string name="suleman_restaurant_and_kabab">Suleman Restaurant And Kabab</string>
+    <string name="suleman_restaurant_and_kabab_address">57 West Agaragoan, near science museum</string>
+    <string name="suleman_restaurant_and_kabab_open_hour">Sun - Sat: 7 AM to 11.30 PM</string>
+
+    <string name="kheya_restaurant">Kheya Restaurant</string>
+    <string name="kheya_restaurant_address">Mojompur, Kushtia</string>
+    <string name="kheya_restaurant_open_hour">Sun - Sat: 9.30 AM to 11.30 PM</string>
+
+    <string name="shohag_hotel_and_restaurant">Shohag Hotel and Restaurant</string>
+    <string name="shohag_hotel_and_restaurant_address">Mohasthan - Shibgonj Rd, Mahasthan</string>
+    <string name="shohag_hotel_and_restaurant_open_hour">Sat - Thu: 8 AM to 12.30 PM (Fri closed)</string>
+
+    <string name="gitanjoli_shopping_complex">Gitanjoli Shopping Complex</string>
+    <string name="gitanjoli_shopping_complex_address">Naogaon City Bypass, Naogaon</string>
+    <string name="gitanjoli_shopping_complex_open_hour">Sun - Sat: 8 AM to 10.55 PM</string>
+    <string name="gitanjoli_shopping_complex_desc">The Gitanjoli Shopping Complex situated in Naogaon which is present middle point of Noagaon city baypass and point of attraction for all ages for its innumerable shops of all kinds, food zone, cineplex, kids’ zone, enthusiastic cellphone market in ground floor and spacious meeting and room around environment for couples and friends. It also has huge parking lot in its underground. The complex so centrally air-conditioned and security measures is highly appreciable. It seems time is running once you are inside the complex.</string>
+
+    <string name="bay_land_shopping_center">Bay-Land Shopping Center</string>
+    <string name="bay_land_shopping_center_address">20/1st, Bag-e-Korful, Near Pubali Circle, Laksham Rd, Cumilla 3500</string>
+    <string name="bay_land_shopping_center_open_hour">Sun - Sat: 8.30 to 11 PM</string>
+    <string name="bay_land_shopping_center_desc">The Bay-Land Shopping Center situated in Cumilla which is present Near Pubali Circle and point of attraction for all ages for its innumerable shops of all kinds, food zone, cineplex, kids’ zone, enthusiastic cellphone market in ground floor and spacious meeting and room around environment for couples and friends. It also has huge parking lot in its underground. The complex so centrally air-conditioned and security measures is highly appreciable. It seems time is running once you are inside the complex.</string>
+
+    <string name="najir_shopping_mall">Najir Shopping Mall</string>
+    <string name="najir_shopping_mall_address">Dhaka 1211</string>
+    <string name="najir_shopping_mall_desc">Najir Shopping Mall situated in Dhaka which is present Dhaka main point and point of attraction for all ages for its innumerable shops of all kinds, food zone. It also has huge parking lot in its underground. The complex so centrally air-conditioned and security measures is highly appreciable. It seems time is running once you are inside the complex.</string>
+
+    <string name="eastern_yakub_plaza">Eastern Yakub Plaza</string>
+    <string name="eastern_yakub_plaza_address">Eastern Yakub Plaza, Dhaka-Comilla-Chittagong Bypass Rd, Cumilla 3500</string>
+    <string name="eastern_yakub_plaza_open_hour">Tue - Sun: 8 AM to 10.55 PM (Mon Closed)</string>
+    <string name="eastern_yakub_plaza_desc">Eastern Yakub Plaza situated in Cumilla which is present Dhaka-Comilla-Chittagong Bypass and point of attraction for all ages for its innumerable shops of all kinds, food zone. The complex so centrally air-conditioned and security measures is highly appreciable. It seems time is running once you are inside the complex.</string>
+
+    <string name="bashundhara_city_shopping_complex">Bashundhara City Shopping Complex</string>
+    <string name="bashundhara_city_shopping_complex_address">3 No Tejturi Bazar West, Panthapath, Dhaka 1215</string>
+    <string name="bashundhara_city_shopping_complex_open_hour">Wed - Mon: 8 AM to 10.55 PM (Tue Closed)</string>
+    <string name="bashundhara_city_shopping_complex_desc">The Bashundhara city shopping mall situated in panthapath which is present middle point of Dhaka metro city and point of attraction for all ages for its innumerable shops of all kinds, food zone, cineplex, kids’ zone, enthusiastic cellphone market in ground floor and spacious meeting and room around environment for couples and friends. It also has huge parking lot in its underground. The complex so centrally air-conditioned and security measures is highly appreciable. It seems time is running once you are inside the complex.</string>
+
+    <string name="dil_shopping_house">Dil Shopping House</string>
+    <string name="dil_shopping_house_address">Khustia</string>
+    <string name="dil_shopping_house_open_hour">Sat - Thu: 8 AM to 10.55 PM</string>
+    <string name="dil_shopping_house_desc">The Dil Shopping House situated in Khustia which is present Near Rabindranath Tagore\'s Shilaidaha Kuthibari and point of attraction for all ages for its innumerable shops of all kinds, food zone. The complex so centrally air-conditioned and security measures is highly appreciable. It seems time is running once you are inside the complex.</string>
+
+    <string name="seyam_garments">Seyam Garments</string>
+    <string name="seyam_garments_address">Bogra New Market, Rangpur Rd, Bogura</string>
+    <string name="seyam_garments_open_hour">Sat - Thu: 8 AM to 10.55 PM</string>
+    <string name="seyam_garments_desc">The Seyam Garments situated in Bogura which is present in Bogra New Market and point of attraction for all ages for its innumerable shops of all kinds, food zone. The complex so centrally air-conditioned and security measures is highly appreciable. It seems time is running once you are inside the complex.</string>
+    <string name="tour_list_parcel">Tour List</string>
+
+
+</resources>

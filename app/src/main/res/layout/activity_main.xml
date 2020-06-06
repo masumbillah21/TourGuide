@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:paddingTop="15dp"
+        android:background="@drawable/header_bg">
+        <ImageView
+            android:id="@+id/app_logo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginLeft="32dp"
+            android:src="@mipmap/tour_guide_bar_icon"
+            android:contentDescription="@string/app_logo" />
+        <TextView
+            android:id="@+id/app_title"
+            style="@style/ActionBarTitle"
+            android:textStyle="bold"
+            android:fontFamily="cursive"
+            android:textAppearance="@android:style/TextAppearance.Medium"
+            android:textSize="25sp"
+            android:text="@string/app_name"/>
+        <TextView
+            android:id="@+id/app_sub_title"
+            style="@style/ActionBarTitle"
+            android:layout_centerVertical="true"
+            android:textAppearance="@android:style/TextAppearance.Small"
+            android:textStyle="italic"
+            android:layout_below="@id/app_title"
+            android:text="@string/app_sub_title"/>
+    </RelativeLayout>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/category_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/CategoryTab"
+        android:background="@android:color/black"/>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/view_page"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>
